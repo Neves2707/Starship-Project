@@ -1,0 +1,1 @@
+global.mode = 3

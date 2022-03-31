@@ -1,0 +1,6 @@
+moveGUI()
+
+radar()
+
+commands()
+
